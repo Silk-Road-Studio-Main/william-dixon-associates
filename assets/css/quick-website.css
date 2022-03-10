@@ -5935,7 +5935,7 @@ input[type='button'].btn-block
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .nav-link.active
 {
-    color: rgba(0, 138, 255, .9);
+    color: #af9a71;
 }
 
 .navbar-light .navbar-toggler
@@ -23141,7 +23141,7 @@ textarea[resize='horizontal']
 {
     font-weight: 600; 
 
-    color: #273444;
+    color: rgb(175 154 113);
 }
 
 @media (min-width: 992px)
