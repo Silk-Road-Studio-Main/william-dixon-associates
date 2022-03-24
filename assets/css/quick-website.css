@@ -28245,7 +28245,7 @@ section
     box-shadow: rgba(0, 0, 0, 0.24) 0px 5px 10px;
 }
 
-.blog .card:hover p{
+.blog .card:hover p, .blog .card:hover .h6{
     color: #fff !important;
 }
 
