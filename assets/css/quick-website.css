@@ -28221,3 +28221,11 @@ section
         background: #4C6DB3;
     }
 }
+
+.team .nav > .nav-item > a > i.fa, .team .nav > .nav-item > a > i.fab {
+    display: inline-block;
+    border-radius: 60px;
+    box-shadow: 0 0 2px #fff;
+    padding: 0.5em 0.6em;
+  
+  }
