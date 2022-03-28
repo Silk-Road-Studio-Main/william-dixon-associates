@@ -28285,6 +28285,10 @@ section
     }
 }
 
+a.nav-link:hover {
+    color: #AF9A71 !important;
+}
+
 .navbar-expand-lg .navbar-collapse {
     background-color: #003e7e;
 }
@@ -28295,4 +28299,8 @@ section
 
 .blog-menu {
     border-bottom: none !important;
+}
+
+.navbar-expand-lg .navbar-collapse .navbar-nav .nav-item .nav-link:hover {
+    color: #AF9A71 !important;
 }
